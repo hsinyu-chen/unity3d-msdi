@@ -1,7 +1,7 @@
 # unity3d-msdi
 Microsoft.Extensions.DependencyInjection intergration for unity 3d
 
-this just a proof-of-concept repo so use use at your own risk
+this just a proof-of-concept repo so use at your own risk
 
 all the refection stuff do at `[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]`
 and compiled to function to minimize performance overhead
