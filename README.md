@@ -38,7 +38,7 @@ public class Startup
 
 when you need service , you can do Property/Field inject by using `[Inject]` Attribute
 
-you also need to call `DependencyInjectionCore.Inject` to 
+you also need to call `DependencyInjectionCore.Inject` at `Awake`
 
 ```
 public class PlayerController : MonoBehaviour
