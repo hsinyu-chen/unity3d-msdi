@@ -8,7 +8,7 @@ and compiled to function to minimize performance overhead
 
 ## Installation
 
- intell nuget package `Microsoft.Extensions.DependencyInjection` (I use [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity))
+ install nuget package `Microsoft.Extensions.DependencyInjection` (I use [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity))
 
  copy `DependencyInjection` folder into your script folder
 
