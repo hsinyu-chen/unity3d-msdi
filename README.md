@@ -76,4 +76,7 @@ if you want create scope by your self and get benefits from the msdi scope syste
 then when you inject services into the `MonoBehaviour` , you can use `DependencyInjectionCore.Inject(this,"scope name")` to use specified scope as parent scope of your `MonoBehaviour` service scope
 (see [PlayerController.cs](PlayerController.cs))
 
+### Others
+
+the [UnityLogger.cs](UnityLogger.cs) is for testing how dotnet components can use same MSDI interfaces to add to Unity
 
